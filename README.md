@@ -1,6 +1,31 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Relevant Notes
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+To locally build the wesbite and host, use the comment `hugo server`.
+
+The relevant folders are:
+
+1. Config/\_default: Meta parameters govern the layout, font type, font size and other relevant parameters.
+2. content: Everything related to the content of the website. 
+	1. aboud.md - edit this file to edit the biograph
+	2. featured.md - edit this file to edit the recent publication on the website
+	3. publications.md - edit this file for publication
+
+
+## Editing the content
+
+
+Some quick notes about editing the content
+
+1. Layout of the webite - To edit the sequence in which the sections appear, edit the `weight` paramter within each yaml file inside the `content/home/` directory.
+2. Font of the website - The Font can only be changed website wide by editing the `font_size` paramter in `config/_default/params.yaml` file. To edit content specific font related parameters, we need to edit the CSS. 
+3. Header and Footer: To edit the sections and their sequence we need edit the `config/_default/menus.yaml` file. 
+
+
+<!-- # Old Hugo Readme
+
+## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+
+<!-- [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/) -->
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
@@ -19,33 +44,14 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
 - 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-## Latest news
-
-<!--START_SECTION:news-->
+## Relevant Links
 
 - [Easily make an academic CV website to get more cites and grow your audience 🚀](https://wowchemy.com/blog/easily-make-academic-website/)
 - [What&#39;s new in v5.2?](https://wowchemy.com/blog/whats-new-in-v5.2/)
 - [What&#39;s new in v5.1?](https://wowchemy.com/blog/whats-new-in-v5.1/)
 - [Version 5.0 (February 2021)](https://wowchemy.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://wowchemy.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+- [Version 5.0 Beta 3 (February 2021)](https://wowchemy.com/blog/version-5.0-beta-3-february-2021/) -->

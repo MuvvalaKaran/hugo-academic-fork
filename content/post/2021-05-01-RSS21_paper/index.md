@@ -19,6 +19,10 @@ featured: false
 
 reading_time: false
 
+url_poster: 'https://drive.google.com/file/d/1yJmwzAMxBnEfJgaX4C7q2ED3t9dmgT-k/view?usp=sharing'
+
+url_pdf: 'https://drive.google.com/file/d/1Dh0xbLj4QFY_8ipnzaCX2N6ObR1JYlg9/view?usp=sharing'
+
 
 # authors:
 #   - admin

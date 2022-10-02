@@ -16,24 +16,24 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: karan.muvvala@colorado.edu
   # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
+  address:
+    street: 3775 Discovery Drive
+    city: Boulder
+    region: CO
+    postcode: '80303'
+    country: United States
+    country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
@@ -42,16 +42,19 @@ content:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  # contact_links:
-  #   - icon: twitter
-  #     icon_pack: fab
-  #     name: DM Me
-  #     link: 'https://twitter.com/Twitter'
-  #   - icon: video
-  #     icon_pack: fas
-  #     name: Zoom Me
-  #     link: 'https://zoom.com'
+
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: Message Me
+      link: 'https://www.linkedin.com/in/karanmuvvala'
+    # - icon: video
+    #   icon_pack: fas
+    #   name: Zoom Me
+    #   link: 'https://zoom.com'
 
 design:
-  columns: '2'
+  columns: '1'
 ---
+
+The easiest way to get in touch with me is via email. Feel free to reach out to me if you are have any questions about my research, academia or robotics in general.

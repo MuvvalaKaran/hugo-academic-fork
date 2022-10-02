@@ -19,6 +19,13 @@ featured: false
 
 reading_time: false
 
+links:
+- name: Fellowship
+  url: https://sites.google.com/andrew.cmu.edu/inclusion-rss-2022/participants?authuser=0
+
+
+# url_source: "https://sites.google.com/andrew.cmu.edu/inclusion-rss-2022/program?authuser=0"
+
 
 # authors:
 #   - admin

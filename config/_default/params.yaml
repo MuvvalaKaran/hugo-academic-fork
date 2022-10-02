@@ -2,14 +2,15 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# https://github.com/donaldRwilliams/hugo-academic/tree/master/archetypes - For different types of pages
 
 # Appearance
 
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Natie
-  font_size: m
+  font: Native
+  font_size: L
 
 # SEO
 
