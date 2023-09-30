@@ -1,14 +1,14 @@
 # Relevant Notes
 
-To locally build the wesbite and host, use the comment `hugo server`.
+To locally build the wesbite and host, use the command `hugo server` and then open the web server hoster at `http://localhost:1313/`. 
 
 The relevant folders are:
 
 1. Config/\_default: Meta parameters govern the layout, font type, font size and other relevant parameters.
-2. content: Everything related to the content of the website. 
-	1. aboud.md - edit this file to edit the biograph
-	2. featured.md - edit this file to edit the recent publication on the website
-	3. publications.md - edit this file for publication
+2. Content: Everything related to the content of the website. 
+	1. home/aboud.md - edit this file to edit the biography
+	2. home/featured.md - edit this file to edit the recent publication on the website
+	3. home/publications.md - edit this file for publication
 
 
 ## Editing the content
@@ -25,7 +25,7 @@ Some quick notes about editing the content
 
 ## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
-<!-- [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/) -->
+[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/) -->
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 

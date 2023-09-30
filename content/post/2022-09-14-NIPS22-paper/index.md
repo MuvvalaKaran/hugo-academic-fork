@@ -26,6 +26,14 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2206.07811
 
+url_pdf: 'https://arxiv.org/abs/2206.07811'
+url_code: 'https://github.com/aria-systems-group/NeuralNetControlBarrier'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: 'https://neurips.cc/virtual/2022/poster/52992'
 
 summary: "TL;DR: In this work, we introduce a method of safety certification and control for neural network dynamic systems via stochastic barrier functions."
 

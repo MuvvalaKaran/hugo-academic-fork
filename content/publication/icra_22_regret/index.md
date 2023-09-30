@@ -40,16 +40,16 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: ArXiv
+  url: https://arxiv.org/abs/2203.06861
 
-url_pdf: 'https://arxiv.org/pdf/2203.06861.pdf'
+# url_pdf: 'https://arxiv.org/pdf/2203.06861.pdf'
 url_code: 'https://github.com/aria-systems-group/PDDLtoSim'
 url_dataset: ''
 url_poster: 'https://drive.google.com/file/d/1p4_Oy7c6_wmKcEWUy7Oa4FkBLQH9WCTx/view?usp=sharing'
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1lsQRf83uxodGeHWZlo9bftS2wWIspYR2/view?usp=sharing'
 url_source: ''
 url_video: 'https://drive.google.com/file/d/1KuIJARxxhpwrijLi-0grSjPmV0RLRCo9/view?usp=sharing'
 

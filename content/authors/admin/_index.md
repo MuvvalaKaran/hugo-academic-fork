@@ -71,7 +71,7 @@ email: 'karan.muvvala@colorado.edu'
 highlight_name: true
 ---
 
-Hey, I am Karan, a second-year Ph.D. student in the Aerospace Engineering Dept. at CU. I am currently working as a Research Assistant at [Aria Systems](https://www.ariasystems.group) advised by Dr. [Morteza Lahijanian](http://www.mortezalahijanian.com/). At ARIA Systems group I work on developing theories and algorithms that enable robots to operate safely, robustly, and efficiently in unknown and dynamic environments. Currently, I am working on
+Hey, I am Karan, a Third-year Ph.D. student in the Aerospace Engineering Dept. at CU. I am currently working as a Research Assistant at [Aria Systems](https://www.ariasystems.group) advised by Dr. [Morteza Lahijanian](http://www.mortezalahijanian.com/). At ARIA Systems group I work on developing theories and algorithms that enable robots to operate safely, robustly, and efficiently in unknown and dynamic environments. Currently, I am working on
 
 - **Verifying** the safety of complex autonomous systems modeled as neural networks and certifying their behaviors using Barrier Methods for Safe Autonomy. 
 - And **Synthesizing** high-level strategies for a robotic manipulator operating in the presence of a human using game-theoretic approaches to enable more human-like behavior for robots.
@@ -80,6 +80,16 @@ My current research interest includes Formal Methods, Verification and Planning 
 
 Please reach out to if you have any questions in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu). Thank you!
 
-Checkout our lab's github [repo](https://github.com/orgs/aria-systems-group/dashboard) to see what I have been upto! 
+Checkout our lab's github [repo](https://github.com/orgs/aria-systems-group) to see what I have been upto! 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+{{% callout note %}}
+I am actively looking for internship opportunities for Summer 24. Specifically, I would like to work on research topics related to 
+* Human-centered autonomy
+  - Interaction-aware efficient decision making for safety-critical systems (ICRA22; IROS23; NIPS22)
+* Assured autonomy
+  - Safety assurances with machine learning models in the loop (NIPS22)
+
+I am always open to new ideas and application fields. Please reach out to me at karan.muvvala@colorado.edu if you have any questions. :)
+{{% /callout %}}

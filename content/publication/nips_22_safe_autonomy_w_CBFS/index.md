@@ -42,9 +42,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: OpenReview
+  url: https://openreview.net/forum?id=9XQa6cgLo21
 
 url_pdf: 'https://arxiv.org/abs/2206.07811'
 url_code: 'https://github.com/aria-systems-group/NeuralNetControlBarrier'
@@ -53,7 +53,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://neurips.cc/virtual/2022/poster/52992'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -78,12 +78,12 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
